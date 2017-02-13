@@ -1,5 +1,5 @@
 # MachineLearning
-This repo contains my submissions categorized by the week.
+This repo contains my submissions for the coursera course on Machine learning categorized by the week.
 
 Topics:
 ------
