@@ -5,15 +5,15 @@ This repo contains my submissions categorized by the week.
 Topics:
 ------
 This course covers topics like:
-1) Linear regression to build a prediction model with a training set.
-2) The concept of  a cost function.
-3) Logistic regression to build a prediction model for clasiffication problems.
+* Linear regression to build a prediction model with a training set.
+* The concept of  a cost function.
+* Logistic regression to build a prediction model for clasiffication problems.
     -- Using sigmoid functions to restrict the output range to 0 - 1 for classification problems.
-4) The concept of underfitting, overfitting, regularization to avoid overfitting.
-5) Using neural networks to improve the performance of building the prediction model when higher order polynomials are in play.
-6) Definition of sensitivity and its importance in finding the optimal theta values.
-7) Using backward progaration to find the gradients. Using gradient checking to verify your implementation of backward propagation.
-8) Using gradient descent or more optimal algorithms such fminuc to find the optimal theta.
+* The concept of underfitting, overfitting, regularization to avoid overfitting.
+* Using neural networks to improve the performance of building the prediction model when higher order polynomials are in play.
+* Definition of sensitivity and its importance in finding the optimal theta values.
+* Using backward progaration to find the gradients. Using gradient checking to verify your implementation of backward propagation.
+* Using gradient descent or more optimal algorithms such fminuc to find the optimal theta.
 
 Environment:
 ------------
