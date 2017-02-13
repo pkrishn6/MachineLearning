@@ -1,5 +1,4 @@
 # MachineLearning
-My assignment submissions for Coursera course on Machine learning
 This repo contains my submissions categorized by the week.
 
 Topics:
