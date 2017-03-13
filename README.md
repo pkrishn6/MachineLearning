@@ -13,6 +13,11 @@ This course covers topics like:
 * Definition of sensitivity and its importance in finding the optimal theta values.
 * Using backward progaration to find the gradients. Using gradient checking to verify your implementation of backward propagation.
 * Using gradient descent or more optimal algorithms such fminuc to find the optimal theta.
+* Using a cross-validation and test set to pick the right model for machine learning.
+* Large margin classifiers, Support vector machines and Kernels.
+* Definition and importance of Precision, Recall and F1 score.
+* Anomaly detection using mean, variance and co-variance.
+* Building a recommendation engine using collaborative filtering.
 
 Environment:
 ------------
