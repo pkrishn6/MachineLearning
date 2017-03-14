@@ -33,3 +33,4 @@ References:
 * https://www.coursera.org/learn/machine-learning/home/welcome
 * http://numericinsight.com/uploads/A_Gentle_Introduction_to_Backpropagation.pdf
 * http://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks
+* http://outlace.com/Computational-Graph/
